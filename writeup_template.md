@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/grayscale.jpg "Grayscale"
 [image2]: ./examples/gauss.png "Gaussian Blue"
 [image3]: ./examples/canny.png "Canny Edges"
-[image4]: ./examples/interest.png "Edges in the region of Interest"
+[image4]: ./examples/intrest.png "Edges in the region of Interest"
 [image5]: ./examples/hough.png "Hough transform"
 
 [image6]: ./examples/lane_lines_o.png "Lane lane from Hough"
@@ -28,18 +28,28 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 Stage 1:
 ![alt text][image1]
+
+
 Stage 2:
 ![alt text][image2]
+
+
 Stage 3:
 ![alt text][image3]
+
+
 Stage 4:
 ![alt text][image4]
+
+
 Stage 5:
 ![alt text][image5]
+
 
 Gives us :
 Stage 6:
 ![alt text][image6]
+
 
 With modified Draw Lines:
 Stage 7:
