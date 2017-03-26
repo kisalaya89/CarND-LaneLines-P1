@@ -27,32 +27,41 @@ First, I converted the images to grayscale, then I applied the gaussian blur to 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by first seperating out the left and right edges of the lane lines. Then I take the bottom most point and the top most point on both the edges and join them to calculate the slope of the resulting lane line. Then extrapolating the line from the top to the bottom of the region of interest gives us a nearly accurate lane line.
 
 Stage 1:
+
 ![alt text][image1]
 
 
 Stage 2:
+
 ![alt text][image2]
 
 
 Stage 3:
+
 ![alt text][image3]
 
 
 Stage 4:
+
 ![alt text][image4]
 
 
 Stage 5:
+
 ![alt text][image5]
 
 
 Gives us :
+
 Stage 6:
+
 ![alt text][image6]
 
 
 With modified Draw Lines:
+
 Stage 7:
+
 ![alt text][image7]
 
 
