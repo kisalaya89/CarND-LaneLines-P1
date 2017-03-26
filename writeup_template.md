@@ -8,14 +8,14 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./examples/gauss.jpg "Gaussian Blue"
-[image3]: ./examples/canny.jpg "Canny Edges"
-[image4]: ./examples/interest.jpg "Edges in the region of Interest"
-[image5]: ./examples/hough.jpg "Hough transform"
+[image2]: ./examples/gauss.png "Gaussian Blue"
+[image3]: ./examples/canny.png "Canny Edges"
+[image4]: ./examples/interest.png "Edges in the region of Interest"
+[image5]: ./examples/hough.png "Hough transform"
 
-[image6]: ./examples/lane_lines_o.jpg "Lane lane from Hough"
+[image6]: ./examples/lane_lines_o.png "Lane lane from Hough"
 
-[image7]: ./examples/lanes.jpg "Final lane lines"
+[image7]: ./examples/lanes.png "Final lane lines"
 
 ---
 
